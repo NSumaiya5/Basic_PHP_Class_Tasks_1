@@ -10,6 +10,6 @@ for ($i=0; $i < count($array); $i++) {
             }
         }
     }
-    echo '<pre>';
+    echo "<pre>";
     print_r($array);
 ?>
